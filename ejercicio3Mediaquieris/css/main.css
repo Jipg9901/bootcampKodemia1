@@ -1,0 +1,20 @@
+.square{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+ 
+@media only screen and (min-width: 768px);
+{
+    .square{
+        border-radius: 25%;
+    width: 300px;
+    height: 300px;
+    border-top: 3px dotted green;
+}
+@media only screen and (min-width);
+}
+
+.square{
+    
+}

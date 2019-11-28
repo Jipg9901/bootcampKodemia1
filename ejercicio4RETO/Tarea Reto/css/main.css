@@ -1,0 +1,37 @@
+*{ /*selector universal*/
+    font-family: 'font-awesome';
+    text-align: center;
+
+    
+}
+.donate-now {
+    background: orange;
+}
+
+.Donar {
+    height: 200px;
+    width: 500px;
+}
+.boy {
+    height: 200px;
+    
+}
+
+#hamburgesa{
+    
+}
+
+@font-face {
+    font-family: ElegantIcons;
+    src: '../fonts/ElegantIcons.ttf';
+    
+  }
+/*.DonateNaw{
+    background: black;
+    display: block;
+    font-family: Arial;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}*/
+

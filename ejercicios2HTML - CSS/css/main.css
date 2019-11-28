@@ -1,0 +1,46 @@
+*{
+    font-family: Arial;
+    text-align: center;
+    margin: 5px auto;
+
+}
+.body{
+font-weight: bold;
+    background-color: azure;
+    
+    
+}
+.header{   
+    background: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+    border-color: gray;
+    border-width: 3px;
+    border-style: dotted;
+
+}
+.nav{   
+    background: linear-gradient(rgb(87, 255, 72),rgb(51, 15, 255));
+    border: blueviolet;
+    border-width: 3px;
+    border-style: dotted;
+}
+.section{
+
+    background: linear-gradient(rgb(0, 102, 255),rgb(0, 7, 94));
+    border: gainsboro
+    border-whith
+    
+}
+.h1{
+    background: linear-gradient(rgb(50, 194, 62), rgb(14, 10, 235));
+}
+.article{
+    background: linear-gradient(rgba(0, 141, 197, 0.582),rgb(38, 221, 22));
+    float: right;
+
+}
+.aside{
+    background: linear-gradient(rgb(233, 25, 25),rgb(46, 33, 102));
+}
+.footer{
+    background: linear-gradient(rgb(20, 137, 204),rgb(223, 247, 7));
+}
